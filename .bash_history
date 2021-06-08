@@ -1,0 +1,2 @@
+rails dbconsole
+exit
